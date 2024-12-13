@@ -1,4 +1,4 @@
-package ThreadAndProcesses_1;
+package _1_ThreadAndProcesses;
 
 public class SimpleRunnable implements Runnable{
     private String name;

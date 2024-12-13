@@ -1,4 +1,4 @@
-package ThreadAndProcesses_1;
+package _1_ThreadAndProcesses;
 
 public class Main {
     public static void main(String[] args){
