@@ -6,6 +6,7 @@ public class CustomLockExample {
 
         Runnable task = () -> {
           lock.lock();
+            System.out.println("In");
           try {
               System.out.println(Thread.currentThread().getName() + " acquired the lock.");
               Thread.sleep(2000);
